@@ -1,0 +1,15 @@
+D:\AD_LAB\week1\bin\Debug\net8.0\week1.exe
+D:\AD_LAB\week1\bin\Debug\net8.0\week1.deps.json
+D:\AD_LAB\week1\bin\Debug\net8.0\week1.runtimeconfig.json
+D:\AD_LAB\week1\bin\Debug\net8.0\week1.dll
+D:\AD_LAB\week1\bin\Debug\net8.0\week1.pdb
+D:\AD_LAB\week1\obj\Debug\net8.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AD_LAB\week1\obj\Debug\net8.0\week1.AssemblyInfoInputs.cache
+D:\AD_LAB\week1\obj\Debug\net8.0\week1.AssemblyInfo.cs
+D:\AD_LAB\week1\obj\Debug\net8.0\week1.csproj.CoreCompileInputs.cache
+D:\AD_LAB\week1\obj\Debug\net8.0\week1.sourcelink.json
+D:\AD_LAB\week1\obj\Debug\net8.0\week1.dll
+D:\AD_LAB\week1\obj\Debug\net8.0\refint\week1.dll
+D:\AD_LAB\week1\obj\Debug\net8.0\week1.pdb
+D:\AD_LAB\week1\obj\Debug\net8.0\week1.genruntimeconfig.cache
+D:\AD_LAB\week1\obj\Debug\net8.0\ref\week1.dll
