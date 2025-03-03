@@ -5,18 +5,18 @@ namespace week1
 
     public class BusTicket : Ticket, IRefundable
     {
-     
+
 
         public void ValidateTicket()
         {
             Console.WriteLine("Bus ticket is valid");
         }
 
-     
+
 
         public string BusNumber { get; set; }
 
-       
+
         public BusTicket(double price, string destination) : base(price, destination)
         {
             Price = price;
@@ -24,12 +24,12 @@ namespace week1
         }
 
 
-    }
 
-            public void ProcessRefund()
+
+        public void ProcessRefund()
         {
             //throw new NotImplementedException();
-            Console.WriteLine("ProcessRefund ");
+            Console.WriteLine($"ProcessRefund {BusNumber} ");
         }
 
         public void ApplyDiscount()
@@ -37,3 +37,5 @@ namespace week1
 
         }
     }
+
+}

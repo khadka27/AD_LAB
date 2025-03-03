@@ -8,10 +8,7 @@ namespace week1
 {
     public class TrainTicket:Ticket, IRefundable
     {
-        public void ValidateTicket()
-        {
-            Console.WriteLine("Train ticket is valid");
-        }
+
         public string SeatNumber { get; set; }
 
 
@@ -26,7 +23,7 @@ namespace week1
         public void ProcessRefund()
         {
             //throw new NotImplementedException();
-            Console.WriteLine($"Refund processed{destination}");
+            Console.WriteLine($"Refund processed{SeatNumber}");
         }
 
         public void ApplyDiscount()

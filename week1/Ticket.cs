@@ -25,7 +25,7 @@ namespace week1
 
         public void ValidateTicket()
         {
-            Console.WriteLine(" Ticket is valid");
+            Console.WriteLine($" Ticket is valid{Destination}");
         }
     }
 }
